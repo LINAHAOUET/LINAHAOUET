@@ -1,5 +1,6 @@
-# Hi there 👋, I'm Lina Haouet
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Lina%20Haouet&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=20)
+# Hi there 👋, I'm Lina Haouet
 Computer Engineering student passionate about web development, Python, and building things that work.
 
 ### 🚀 About Me
@@ -14,3 +15,4 @@ Computer Engineering student passionate about web development, Python, and build
 ![LINAHAOUET's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINAHAOUET&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINAHAOUET&theme=synthwave&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LINAHAOUET&theme=synthwave)
