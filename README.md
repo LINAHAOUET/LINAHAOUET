@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Lina Haouet
 
-<!--
-**LINAHAOUET/LINAHAOUET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student passionate about web development, Python, and building things that work.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I'm currently working on: Web development projects and Python exercises
+- 🤝 I'm looking to collaborate on: Web and software development projects
+- 🧠 I'm looking for help with: Git workflows and best practices for teamwork
+- 🌱 I'm currently learning: Python, Linux system administration, and Git/GitHub
+- 💬 Ask me about: HTML/CSS, Python basics, or Arduino/electronics projects
+- ⚡ Fun fact: I'm learning to manage my projects with Git... one merge conflict at a time 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+![LINAHAOUET's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINAHAOUET&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINAHAOUET&theme=synthwave&layout=compact)
